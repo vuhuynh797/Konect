@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "326263752500",
+    "project_id": "konect-kin",
+    "storage_bucket": "konect-kin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326263752500:android:a584bbbad5ab35b7524761",
+        "android_client_info": {
+          "package_name": "com.example.konect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326263752500-93jvpfa9decm640l0jptkvooronp5aps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.konect",
+            "certificate_hash": "6960e12e57698457dc925a19555641012472c13a"
+          }
+        },
+        {
+          "client_id": "326263752500-h711kiabj0kcbv1e66nrfggc2i1jmc5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9JQgI5lKMxBtZPtMFzFo2SDoPnGSrvHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326263752500-h711kiabj0kcbv1e66nrfggc2i1jmc5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
