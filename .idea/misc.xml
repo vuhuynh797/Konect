@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/Interview/Konect/app/src/main/res/drawable/custom_button_login.xml" value="0.2925" />
         <entry key="..\:/Interview/Konect/app/src/main/res/drawable/custom_edit_text_login.xml" value="0.1" />
+        <entry key="..\:/Interview/Konect/app/src/main/res/drawable/custom_icon_nav_color.xml" value="0.159" />
+        <entry key="..\:/Interview/Konect/app/src/main/res/drawable/custom_item_fragment_profile.xml" value="0.2925" />
+        <entry key="..\:/Interview/Konect/app/src/main/res/drawable/custom_nav_main.xml" value="0.2925" />
+        <entry key="..\:/Interview/Konect/app/src/main/res/drawable/ic_back.xml" value="0.2925" />
         <entry key="..\:/Interview/Konect/app/src/main/res/drawable/ic_email.xml" value="0.1235" />
         <entry key="..\:/Interview/Konect/app/src/main/res/drawable/ic_password.xml" value="0.1235" />
         <entry key="..\:/Interview/Konect/app/src/main/res/layout/activity_login.xml" value="0.33" />
@@ -13,6 +17,12 @@
         <entry key="..\:/Interview/Konect/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
         <entry key="..\:/Interview/Konect/app/src/main/res/layout/activity_splash.xml" value="0.25" />
         <entry key="..\:/Interview/Konect/app/src/main/res/layout/activity_test.xml" value="0.36666666666666664" />
+        <entry key="..\:/Interview/Konect/app/src/main/res/layout/activity_user_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Interview/Konect/app/src/main/res/layout/fragment_chat.xml" value="0.36666666666666664" />
+        <entry key="..\:/Interview/Konect/app/src/main/res/layout/fragment_feed.xml" value="0.36666666666666664" />
+        <entry key="..\:/Interview/Konect/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Interview/Konect/app/src/main/res/layout/item_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Interview/Konect/app/src/main/res/menu/menu_bottom_nav.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>

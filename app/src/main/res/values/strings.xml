@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Konect</string>
+    <string name="action_chat">Tin nhắn</string>
+    <string name="action_feed">feed</string>
+    <string name="action_profile">Cá nhân</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
